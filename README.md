@@ -10,7 +10,7 @@ pipenv install
 ```
 Dependencies will be installed from the Pipfile. Python version 3.7 is used for this project.
 
-## Run the Application
+## Run the Applicatio
 
 ```
 python app.py
