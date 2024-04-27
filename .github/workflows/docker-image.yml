@@ -10,6 +10,7 @@ on:
 jobs:
   CI:
     runs-on: ubuntu-latest
+    
     steps:
     - name: Checkout the app code
       uses: actions/checkout@v3
